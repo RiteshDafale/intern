@@ -1,0 +1,17 @@
+*{
+    margin:0px;
+    padding:0px;
+    border:border-box;
+
+}
+nav{
+    border: 2px solid red;
+    display: flex;;
+    justify-content: space-evenly;
+    height:60px;;
+    background-color:#cbe2f6;
+    align-items: center;
+}
+.right img{
+width:34px;
+}
